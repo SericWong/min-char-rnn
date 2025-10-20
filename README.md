@@ -1,7 +1,7 @@
 # min-char-rnn
 Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy
 
-Reference page [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2025-10-20/rnn-effectiveness/)
+Reference page [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2025-10-21/rnn-effectiveness/)
 
 ## RNN/LSTM
 Actually this model use the simple RNN, not using LSTM.
